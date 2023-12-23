@@ -1,2 +1,2 @@
-# variational_inference_review
-Variational Inference: A review for programmers
+# Variational Inference: A Review for Programmers
+
